@@ -8,6 +8,7 @@ export default defineConfig({
     alias: {
       '@': '/src' // This alias maps "@" to the "src" directory
     }
-  }
+  },
+  base: "/Portfolio",
 })
 
